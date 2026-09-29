@@ -2,9 +2,9 @@
 
 ## 1. Thông tin sinh viên
 
-* Họ và tên: Nguyễn Huỳnh Huy
-* MSSV: 1250080073
-* Tên bài Lab: LAB 3 - Hệ thống quản lý khách sạn
+Họ và tên: Nguyễn Huỳnh Huy
+MSSV: 1250080073
+Tên bài Lab: LAB 3 - Hệ thống quản lý khách sạn
 
 ## 2. Môi trường thực hiện
 
