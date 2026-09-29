@@ -12,7 +12,7 @@ Tên bài Lab: LAB 3 - Hệ thống quản lý khách sạn
 * C#
 * Windows Forms (WinForms)
 * Microsoft SQL Server
-* SQL Server Management Studio (SSMS)
+* SQL Server 
 * GitHub
 
 ## 3. Nội dung đã thực hiện
@@ -56,7 +56,7 @@ Ngoài ra, trong quá trình chạy thử các chức năng, em kiểm tra lại
 
 ### Bước 1: Cơ sở dữ liệu
 
-Mở SQL Server Management Studio và chạy file SQL được lưu trong thư mục `Database` để tạo cơ sở dữ liệu và các bảng cần thiết.
+Mở SQL Server và chạy file SQL được lưu trong thư mục `QuanLyKhachSan.sql` để tạo cơ sở dữ liệu và các bảng cần thiết.
 
 ### Bước 2: Mở chương trình
 
