@@ -21,12 +21,9 @@ Trong bài Lab 3, em thực hiện xây dựng hệ thống quản lý khách s�
 
 Các nội dung đã thực hiện gồm:
 
-* Phân tích các nghiệp vụ của hệ thống quản lý khách sạn.
-* Xác định Actor, Use Case, Class, Association và Multiplicity.
 * Thiết kế cơ sở dữ liệu SQL Server với các bảng, khóa chính, khóa ngoại và các ràng buộc cần thiết.
 * Xây dựng giao diện và các chức năng quản lý bằng WinForms.
 * Xử lý các nghiệp vụ liên quan đến phòng, tiện nghi, đặt phòng, dịch vụ, đền bù, hóa đơn, thanh toán và thống kê.
-* Kiểm thử một số quy tắc nghiệp vụ như kiểm tra sức chứa phòng, trùng lịch đặt phòng, lắp đặt tiện nghi, cộng dồn dịch vụ, lập hóa đơn và thanh toán.
 
 ## 4. Kết quả
 
