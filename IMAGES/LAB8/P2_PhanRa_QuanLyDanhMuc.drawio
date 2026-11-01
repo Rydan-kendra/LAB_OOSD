@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT">
+  <diagram name="Use Case phân rã" id="diagram1">
+    <mxGraphModel dx="1073" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="main" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý danh mục" vertex="1">
+          <mxGeometry height="72" width="225" x="45" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="s0" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý tầng" vertex="1">
+          <mxGeometry height="67" width="245" x="462" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" source="s0" style="edgeStyle=none;html=1;rounded=0;endArrow=open;endFill=0;startArrow=none;dashed=1;dashPattern=7 5;strokeColor=#D84B78;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=#FFFFFF;" target="main" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý văn phòng" vertex="1">
+          <mxGeometry height="67" width="245" x="455" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="s1" style="edgeStyle=none;html=1;rounded=0;endArrow=open;endFill=0;startArrow=none;dashed=1;dashPattern=7 5;strokeColor=#D84B78;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=#FFFFFF;" target="main" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý khách thuê" vertex="1">
+          <mxGeometry height="67" width="245" x="455" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="s2" style="edgeStyle=none;html=1;rounded=0;endArrow=open;endFill=0;startArrow=none;dashed=1;dashPattern=7 5;strokeColor=#D84B78;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=#FFFFFF;" target="main" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý nhân viên làm việc" vertex="1">
+          <mxGeometry height="67" width="245" x="455" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="s3" style="edgeStyle=none;html=1;rounded=0;endArrow=open;endFill=0;startArrow=none;dashed=1;dashPattern=7 5;strokeColor=#D84B78;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=#FFFFFF;" target="main" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#D84B78;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;" value="Quản lý thẻ giữ xe" vertex="1">
+          <mxGeometry height="67" width="245" x="455" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="s4" style="edgeStyle=none;html=1;rounded=0;endArrow=open;endFill=0;startArrow=none;dashed=1;dashPattern=7 5;strokeColor=#D84B78;strokeWidth=1.4;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=#FFFFFF;" target="main" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
